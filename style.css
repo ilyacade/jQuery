@@ -1,0 +1,22 @@
+.btn{
+    padding: 10px 5px;
+    border: none;
+    outline: none;
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 3px 4px 0 #ddd;
+    margin: 10px;
+}
+.btn:hover{
+    background-color: #fff;
+    color: orange;
+}
+.margin-50{
+    margin: 50px;
+}
+.big-title{
+    font-size: 5em;
+    color: rgb(170, 0, 255);
+    
+}
